@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Antonioabbruzzo
-- 👀 I’m interested in coding, box and fishing
+- 👀 I’m interested in coding, boxe and fishing
 - 🌱 I’m currently learning html, css and angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
