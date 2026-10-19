@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Antonioabbruzzo
 - 👀 I’m interested in coding, boxe and fishing
 - 🌱 Ex angular developer, now i'm a scrum master/project manager in love with coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Antonioabbruzzo/Antonioabbruzzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
